@@ -1,17 +1,17 @@
 // these do not have parameters
 
-// function declaration
-function sayhi() {
-  console.log('Hi!')
-}
+// // function declaration
+// function sayhi() {
+//   console.log('Hi!')
+// }
 
-// function expression
-const intro = function() {
-  console.log(`The name's Stet *reaches out hand*`)
-}
+// // function expression
+// const intro = function() {
+//   console.log(`The name's Stet *reaches out hand*`)
+// }
 
-// arrow function
-const bye = () => {console.log('Good day, now.')}
+// // arrow function
+// const bye = () => {console.log('Good day, now.')}
 
 // invokes the functions without parameters
 sayhi()
